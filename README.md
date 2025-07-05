@@ -75,6 +75,5 @@ By applying a structured business analytics framework and CRM-funnel logic, the 
 
 This project supports DT Fellowship’s mission to build future-ready business leaders and empower MSMEs to become self-sustaining engines of India’s growth.
 
-**"You can’t improve what you don’t define. You can’t scale what you don’t understand."**
 
 
