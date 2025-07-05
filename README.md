@@ -1,4 +1,3 @@
-# Empowering-Small-Jewelry-Businesses-through-CRM-Funnel-Optimization
 
 # Empowering Small Jewelry Businesses through CRM & Funnel Optimization  
 **DT Fellowship Simulation Assignment — Growth by Data: Orchestrating Funnels, Reducing CAC**  
